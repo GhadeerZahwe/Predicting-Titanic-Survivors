@@ -9,7 +9,7 @@ Build a machine learning model to predict whether a passenger survived the Titan
   - `train.csv`: Contains labels (`Survived`: 0 = No, 1 = Yes)
   - `test.csv`: Without labels (used for final prediction submission)
 
-## 📊 Input Features
+## Input Features
 - Pclass: Ticket class (1st, 2nd, 3rd)  
 - Sex: Gender  
 - Age: Age in years  
@@ -19,10 +19,10 @@ Build a machine learning model to predict whether a passenger survived the Titan
 - Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)  
 - Cabin, Ticket, Name (can be engineered)
 
-## ✅ Target Variable
+## Target Variable
 - Survived: 0 or 1
 
-## 🛠️ Project Steps
+## Project Steps
 1. Exploratory Data Analysis (EDA)  
    - Visualize survival rate across different features  
 2. Data Preprocessing  
